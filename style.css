@@ -139,3 +139,44 @@ li {
     width: 80px;
     padding: 10px;
 }
+
+.grediant{
+    background-image: linear-gradient(to right,#ff6a14 0%,rgba(240,100,50,0)100%),url(./watch.png);
+    width: 70%;
+    height: 200px;
+    background-size: cover;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    align-items: center;
+    border-radius: 15px;
+   
+}
+
+.watch-heading{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+.cuntact-button{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    border-style: none;
+    color: #F15B22;
+    border-radius: 5px;
+}
+.footer{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color:black;
+    color: white;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 150px;
+}
