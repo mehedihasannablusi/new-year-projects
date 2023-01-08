@@ -23,7 +23,7 @@
 
 }
 
-.bannar-heading{
+.bannar-heading {
     color: black;
     font-size: 50px;
     text-align: right;
@@ -61,10 +61,81 @@
 
 }
 
-.bannar2{
+.bannar2 {
     display: flex;
 }
-.middil-heading{
-    font-size: 50px;
-    text-align: right;
+
+.middil-heading {
+    font-size: 40px;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+.discription {
+    margin: 15px;
+    font-size: 15px;
+    align-items: left;
+    margin-left: 100px;
+    opacity: 80%;
+    padding: 5px;
+
+}
+
+.list-item {
+    list-style: none;
+    align-items: left;
+    margin-left: 100px;
+    opacity: 80%;
+
+}
+
+.icon-align {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    padding: 10px;
+}
+
+.section-3-title {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 300px;
+}
+
+.what-i-want {
+
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    width: 100%;
+
+}
+
+.about-infor-containar {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    text-align: center;
+
+}
+
+.info-hading {
+    font-size: 20px;
+    font-weight: bold;
+    align-items: center;
+}
+
+.infor-description {
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    
+}
+.images{
+    width: 80px;
+    padding: 10px;
 }
